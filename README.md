@@ -8,9 +8,9 @@
   <img src="skills.svg" width="100%" />
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mycodelab-lab&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" />
+  
 </p>
----
+
  
 <p align="center">
   <img src="stats.svg" width="100%" />
