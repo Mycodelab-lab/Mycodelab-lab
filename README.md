@@ -15,11 +15,10 @@
 <p align="center">
   <img src="stats.svg" width="100%" />
 </p>
----
+
  
 ### 🚀 Projects
- 
-### 🚀 Projects
+
 
 | Project | What it does | Tech |
 |---|---|---|
